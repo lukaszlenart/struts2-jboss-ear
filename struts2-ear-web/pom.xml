@@ -18,6 +18,12 @@
 
         <dependency>
             <groupId>org.demo</groupId>
+            <artifactId>struts2-ear-jar</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.demo</groupId>
             <artifactId>struts2-ear-ejb</artifactId>
             <version>${project.version}</version>
             <scope>provided</scope>
