@@ -12,6 +12,7 @@
       <module>struts2-ear-web</module>
       <module>struts2-ear-ear</module>
       <module>struts2-ear-jar</module>
+      <module>struts2-ear-jar2</module>
   </modules>
 
    <properties>
