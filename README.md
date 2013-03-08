@@ -1,5 +1,6 @@
-Struts2 JBoss EAR example
-=================
+# Struts2 JBoss EAR example
+
+[![Build Status](https://travis-ci.org/lukaszlenart/struts2-jboss-ear.png?branch=master)](https://travis-ci.org/lukaszlenart/struts2-jboss-ear)
 
 Simple demo how to create JBoss based ear application with Struts 2 and Convention plugin - was tested with JBoss 5 and 7
 
