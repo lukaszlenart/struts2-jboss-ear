@@ -10,3 +10,5 @@ It specify acctions in two places:
 but such configuration will not work as you must include struts2-core in struts2-ear-web module to allow access to struts-tags.tld
 
 If your actions don't have a presentation layer which base on JSP tags, thus will work. In other case you must specify your actions in struts2-ear-web module or extract struts-tags.tld into WEB-INF
+
+Published under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
