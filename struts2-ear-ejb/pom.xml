@@ -12,10 +12,6 @@
    <artifactId>struts2-ear-ejb</artifactId>
    <packaging>ejb</packaging>
 
-    <properties>
-        <struts2.version>2.3.11-SNAPSHOT</struts2.version>
-    </properties>
-
    <name>struts2-ear EJB module</name>
 
    <dependencies>
