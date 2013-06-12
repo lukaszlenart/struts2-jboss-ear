@@ -12,4 +12,8 @@ but such configuration will not work as you must include struts2-core in struts2
 
 If your actions don't have a presentation layer which base on JSP tags, thus will work. In other case you must specify your actions in struts2-ear-web module or extract struts-tags.tld into WEB-INF
 
+Update 2013-06-12
+
+I have added the Struts 2 CDI plugin with simple test case to show how to use CDI with JUnit - check IndexTest
+
 Published under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
