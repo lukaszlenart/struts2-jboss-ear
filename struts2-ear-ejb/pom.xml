@@ -30,6 +30,26 @@
 
        <dependency>
            <groupId>org.apache.struts</groupId>
+           <artifactId>struts2-cdi-plugin</artifactId>
+           <version>${struts2.version}</version>
+       </dependency>
+
+       <dependency>
+           <groupId>org.jboss.weld</groupId>
+           <artifactId>weld-core</artifactId>
+           <version>1.0.1-Final</version>
+           <scope>provided</scope>
+       </dependency>
+
+       <dependency>
+           <groupId>org.jboss.weld</groupId>
+           <artifactId>weld-se</artifactId>
+           <version>1.0.1-Final</version>
+           <scope>test</scope>
+       </dependency>
+
+       <dependency>
+           <groupId>org.apache.struts</groupId>
            <artifactId>struts2-junit-plugin</artifactId>
            <version>${struts2.version}</version>
            <scope>test</scope>
@@ -39,6 +59,20 @@
          <groupId>org.apache.struts</groupId>
          <artifactId>struts2-config-browser-plugin</artifactId>
          <version>${struts2.version}</version>
+       </dependency>
+
+       <dependency>
+           <groupId>javax.servlet</groupId>
+           <artifactId>servlet-api</artifactId>
+           <version>2.4</version>
+           <scope>provided</scope>
+       </dependency>
+
+       <dependency>
+           <groupId>javax.servlet</groupId>
+           <artifactId>jsp-api</artifactId>
+           <version>2.0</version>
+           <scope>provided</scope>
        </dependency>
 
       <!-- Declare the APIs we depend on and need for compilation. All of
