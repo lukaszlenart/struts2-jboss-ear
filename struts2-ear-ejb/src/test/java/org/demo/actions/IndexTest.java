@@ -33,7 +33,7 @@ public class IndexTest extends StrutsJUnit4TestCase<Index> {
 
         // then
         String redirect = action.getRedirectName();
-        assertEquals("hello", redirect);
+        assertEquals("success", redirect);
     }
 
     @Override
