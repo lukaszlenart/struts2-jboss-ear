@@ -17,3 +17,7 @@ Update 2013-06-12
 I have added the Struts 2 CDI plugin with simple test case to show how to use CDI with JUnit - check IndexTest
 
 Published under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lukaszlenart/struts2-jboss-ear/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
